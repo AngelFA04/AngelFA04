@@ -2,13 +2,11 @@
 
 I'm a Software Developer focused on Backend development. My principal interests in technology are cybersecurity, data science, and electronics. 
 
-🔭 I'm working as a Backend developer at Fairplay
+🔭 Python Developer at Globant
 
 📚 Information technology student at UNAM 
 
 📗 Platzi Master student C4
-
-💻 Learning every day about cyber security
 
 ⚡ Science fiction lover
 
